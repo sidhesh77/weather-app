@@ -1,0 +1,15 @@
+# Weather App — dependencies
+# Install via npm in each folder (see README)
+
+# Runtime: Node.js 18+
+
+# Backend (cd backend && npm install)
+#   express, cors, axios, better-sqlite3, pdfkit
+
+# Frontend (cd frontend && npm install)
+#   react, react-dom, vite, @vitejs/plugin-react
+
+# External APIs (no keys needed):
+#   Open-Meteo Geocoding + Forecast — https://open-meteo.com/
+#   OpenStreetMap embed — map display
+#   YouTube search links — location videos
