@@ -1,6 +1,10 @@
-# Weather App
+# SkyCast Weather App
 
 Full-stack weather app — React frontend + Node.js backend.
+
+## Live Demo
+
+**https://skycast-sidhesh.vercel.app/**
 
 ## What this does
 
